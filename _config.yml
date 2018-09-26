@@ -79,7 +79,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/huangjunque/my_blogs.git
+  repo: https://github.com/huangjunque/hexo_blog.git
   branch: master
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
